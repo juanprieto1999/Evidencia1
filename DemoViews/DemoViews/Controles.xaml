@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="DemoViews.Controles">
+    <StackLayout VerticalOptions="CenterAndExpand">
+        <Picker
+            x:Name="Deportivo"
+            Title="Seleccionar Una opcion"
+            TextColor="Black"
+            SelectedIndexChanged="Deportivo_SelectedIndexChange">
+            <Picker.Items>
+                <x:String>Lamborghini</x:String>
+                <x:String>Mclaren</x:String>
+                <x:String>Ferrari</x:String>
+                <x:String>Audi</x:String>
+                <x:String>Bugatti</x:String>
+                <x:String>Porshe</x:String>
+                <x:String>MercedezBenz</x:String>
+
+                
+                </Picker.Items>
+
+            
+
+        </Picker>
+        <ProgressBar
+        x:Name="progressNum"
+            Progress="1"
+        />
+        <Button
+            x:Name="btnSimular"
+            Text="Simular"
+            BackgroundColor="Blue"
+            TextColor="White"
+            FontAttributes="Bold"
+            FontSize="Large"
+            Clicked="btnSimular_Clicked"/>
+      
+      <SearchBar 
+            x:Name="searchBar"
+            Placeholder="Buscar"
+            CancelButtonColor="Blue"
+            SearchButtonPressed="Handle_SearchButtonPressed"
+            TextColor="Aqua"
+            TextChanged="Handle_TextChanged"
+           >
+            
+        </SearchBar>
+
+        <Slider
+            x:Name="slider"
+            Maximum="200"
+            Minimum="100"
+            Value="120"
+            ValueChanged="Handle_ValueChanged">
+            
+        </Slider>
+        <Label
+            x:Name="labCambio"
+            TextColor="Blue"
+            FontSize="Large"
+            HorizontalTextAlignment="Center"
+            FontAttributes="Bold"/>
+        
+            <Stepper
+            x:Name="steeper"
+            Minimum="50"
+            Maximum="150"
+            Increment="25"
+            ValueChanged="stepEvent">
+            </Stepper>
+            <Label
+            x:Name="lbDisplay"
+            TextColor="Red"
+            FontSize="Large"
+            HorizontalTextAlignment="Center"
+            FontAttributes="Italic"/>
+        <Switch
+        x:Name="swEstado"
+        IsToggled="true"
+        Toggled="Handle_Toggled"
+        HorizontalOptions="Center"/>
+        
+        
+    </StackLayout>
+</ContentPage>

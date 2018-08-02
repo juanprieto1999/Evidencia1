@@ -1,9 +1,9 @@
-﻿<Properties StartupConfiguration="{EA55E91E-D4D9-4CAA-A111-EB2768A153D3}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="DemoViews/MainPage.xaml">
+﻿<Properties StartupConfiguration="{BC2661F2-5D52-4DC0-BC46-31DC2A7FF6B3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DemoViews/Controles.xaml">
     <Files>
-      <File FileName="DemoViews/MainPage.xaml" Line="38" Column="25" />
-      <File FileName="DemoViews/Pagina2.xaml" Line="11" Column="42" />
-      <File FileName="DemoViews/App.xaml" Line="5" Column="15" />
+      <File FileName="DemoViews/Controles.xaml" Line="45" Column="13" />
+      <File FileName="DemoViews/Controles.xaml.cs" Line="18" Column="10" />
+      <File FileName="DemoViews/Demo.xaml" Line="6" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.DemoViews.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E94278E1-4CE6-4339-828F-57E2BEDC6F9E" />
