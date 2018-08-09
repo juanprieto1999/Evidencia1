@@ -1,0 +1,8 @@
+/Users/juandavid/Projects/Informacion/Informacion/obj/Debug/netstandard2.0/Informacion.csproj.CoreCompileInputs.cache
+/Users/juandavid/Projects/Informacion/Informacion/obj/Debug/netstandard2.0/Informacion.AssemblyInfoInputs.cache
+/Users/juandavid/Projects/Informacion/Informacion/obj/Debug/netstandard2.0/Informacion.AssemblyInfo.cs
+/Users/juandavid/Projects/Informacion/Informacion/bin/Debug/netstandard2.0/Informacion.deps.json
+/Users/juandavid/Projects/Informacion/Informacion/bin/Debug/netstandard2.0/Informacion.dll
+/Users/juandavid/Projects/Informacion/Informacion/bin/Debug/netstandard2.0/Informacion.pdb
+/Users/juandavid/Projects/Informacion/Informacion/obj/Debug/netstandard2.0/Informacion.dll
+/Users/juandavid/Projects/Informacion/Informacion/obj/Debug/netstandard2.0/Informacion.pdb
